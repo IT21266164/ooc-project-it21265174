@@ -45,4 +45,5 @@ int main()
  rc1-> logging();
  rc1-> logout();
  rc1-> displayDetails();
-}
+
+  }
