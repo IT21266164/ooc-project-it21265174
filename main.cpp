@@ -1,6 +1,12 @@
 #include<iostream>
 #include "Register_customer.h"
 #include"Recipe.h"
+#include"Book.h"
+#include"payment.h"
+#include"staff.h"
+#include"hall.h"
+#include"feedback.h"
+#include"unregister_customer.h"
  
 using namespace std;
 
