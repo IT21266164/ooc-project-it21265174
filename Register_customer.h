@@ -14,5 +14,4 @@ public:
  void logout();
  void displayDetails();
  ~rcustomer();
-
 };
